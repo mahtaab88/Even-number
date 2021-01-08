@@ -1,0 +1,8 @@
+def adadzoj(m):
+        if m % 2 == 0:
+                return True
+        else:
+                rerurn False
+                
+ adadzoj(23142)
+ True
